@@ -1,21 +1,9 @@
 {
-    "retailer": "M&M Corner Market",
-    "purchaseDate": "2022-03-20",
-    "purchaseTime": "14:33",
-    "items": [
-      {
-        "shortDescription": "Gatorade",
-        "price": "2.25"
-      },{
-        "shortDescription": "Gatorade",
-        "price": "2.25"
-      },{
-        "shortDescription": "Gatorade",
-        "price": "2.25"
-      },{
-        "shortDescription": "Gatorade",
-        "price": "2.25"
-      }
-    ],
-    "total": "9.00"
-  }
+  "retailer": "Target",
+  "purchaseDate": "2022-01-02",
+  "purchaseTime": "13:13",
+  "total": "1.25",
+  "items": [
+      {"shortDescription": "Pepsi - 12-oz", "price": "1.25"}
+  ]
+}
